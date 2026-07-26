@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="dbcleaner" path="$PROJECT_DIR$/../dbcleaner">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/dbcleaner.git" />
+    </project>
+    <project name="scripts" path="$PROJECT_DIR$/../scripts" />
+    <project name="consolidated-postgres" path="$PROJECT_DIR$/../consolidated-postgres">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/consolidated-postgres.git" />
+    </project>
+    <project name="runs-ai-analyzer" path="$PROJECT_DIR$/../runs-ai-analyzer">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/runs-ai-analyzer.git" />
+    </project>
+    <project name="runs-app" path="$PROJECT_DIR$/../runs-app">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/runs-app.git" />
+    </project>
+    <project name="event-service" path="$PROJECT_DIR$/../eventstracker">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/eventstracker.git" />
+    </project>
+    <project name="iAC-NikeRuns" path="$PROJECT_DIR$/../iAC-NikeRuns">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/iAC-NikeRuns.git" />
+    </project>
+    <project name="jubilant-memory" path="$PROJECT_DIR$/../jubilant-memory">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/jubilant-memory.git" />
+    </project>
+    <project name="sathish-tracker-microservices" path="$PROJECT_DIR$/../mytracker">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/mytracker.git" />
+    </project>
+    <project name="sathish-projects-logger" path="$PROJECT_DIR$/../sathishlogger">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/sathish-projects-logger.git" />
+    </project>
+    <project name="sathishproject-config-server" path="$PROJECT_DIR$/../sathishproject-config-server">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/sathishproject-config-server.git" />
+    </project>
+    <project name="my-github-cleaner" path="$PROJECT_DIR$/../verbose-barnacle">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/verbose-barnacle.git" />
+    </project>
+    <project name="verbose-parakeet" path="$PROJECT_DIR$/../verbose-parakeet">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/verbose-parakeet.git" />
+    </project>
+    <option name="workspace" value="true" />
+  </component>
+</project>
