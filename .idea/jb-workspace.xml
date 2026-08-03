@@ -26,9 +26,6 @@
     <project name="sathish-tracker-microservices" path="$PROJECT_DIR$/../mytracker">
       <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/mytracker.git" />
     </project>
-    <project name="sathish-projects-logger" path="$PROJECT_DIR$/../sathishlogger">
-      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/sathish-projects-logger.git" />
-    </project>
     <project name="sathishproject-config-server" path="$PROJECT_DIR$/../sathishproject-config-server">
       <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/sathishproject-config-server.git" />
     </project>
