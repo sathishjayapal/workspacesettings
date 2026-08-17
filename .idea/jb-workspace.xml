@@ -35,6 +35,9 @@
     <project name="verbose-parakeet" path="$PROJECT_DIR$/../verbose-parakeet">
       <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/verbose-parakeet.git" />
     </project>
+    <project name="sathish-projects-logger" path="$PROJECT_DIR$/../sathish-projects-logger">
+      <vcs id="Git" remoteUrl="https://github.com/sathishjayapal/sathish-projects-logger.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
